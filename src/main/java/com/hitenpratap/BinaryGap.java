@@ -1,5 +1,6 @@
 package com.hitenpratap;
 
+// https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
 public class BinaryGap {
     public static void main(String[] args) {
         System.out.println(calculateBinaryGap(1041));
