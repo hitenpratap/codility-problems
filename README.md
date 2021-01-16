@@ -1,2 +1,1 @@
-# codility-problems
-Codility Problems
+# Codility Problems
